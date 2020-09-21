@@ -1,0 +1,18 @@
+  .container {
+      display: flex;
+      flex-direction: row
+  }
+
+.boxes {
+    flex: wrap;
+    float: left;
+    color: white;
+    text-align: center;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    margin: 1%;
+    font-size: 50px;
+    cursor: pointer;
+
+}
